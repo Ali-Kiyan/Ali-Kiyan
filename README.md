@@ -6,6 +6,6 @@
 
 <b> GitHub Stats</b>
 
-<a href="http://www.github.com/Ali-kiyan"><img src="https://github-readme-stats.vercel.app/api?username=Ali-kiyan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&show_icons=true" alt="Ali-kiyan's GitHub stats" /></a>
-<a href="http://www.github.com/Ali-kiyan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-kiyan&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Ali-kiyan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-kiyan&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 <a href="http://www.github.com/Ali-kiyan"><img src="https://activity-graph.herokuapp.com/graph?username=Ali-kiyan&bg_color=27272a&color=ffffff&line=ec4899&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
