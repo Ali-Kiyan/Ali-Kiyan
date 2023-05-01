@@ -8,4 +8,3 @@
 
 
 <a href="http://www.github.com/Ali-kiyan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-kiyan&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
-<a href="http://www.github.com/Ali-kiyan"><img src="https://activity-graph.herokuapp.com/graph?username=Ali-kiyan&bg_color=27272a&color=ffffff&line=ec4899&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
